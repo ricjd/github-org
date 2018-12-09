@@ -2,6 +2,8 @@
 
 const octokit = require('@octokit/rest')();
 const request = require('request');
+const RateLimit = require('async-sema/rate-limit');
+
 const querystring = require('querystring');
 
 const log = require('./logger');
@@ -10,7 +12,9 @@ const appId = '8432eb96ad51b57e0e28';
 const privateKey = '23fb45f47886c32934b438d9f2627576e254c457';
 
 const getOrgStats = async (req, res, next) => {
-  let repos, repoContributorsStats;
+  let repos;
+  let repoContributorsStats = [];
+  let recalc = false;
   if (!req.session.token) {
     res.status(401);
     return next('Please authenticate');
@@ -23,12 +27,27 @@ const getOrgStats = async (req, res, next) => {
 
   try {
     repos = await octokit.paginate(options);
-    // const repoPromises = repos.map((repo) => {
-    //   console.log({owner: repo.owner.login, name: repo.name});
-    //   return octokit.repos.getContributorsStats({owner: repo.owner.login, repo: repo.name});
-    // });
 
-    // repoContributorsStats = await Promise.all(repoPromises);
+    //wait a second between each request
+    //https://developer.github.com/v3/guides/best-practices-for-integrators/#dealing-with-abuse-rate-limits
+    const contributionsRateLimit = RateLimit(5);
+    let tempContributorsStats
+    for (let i = 0; i < repos.length; i++) {
+      await contributionsRateLimit();
+      tempContributorsStats = await octokit.repos.getContributorsStats({owner: repos[i].owner.login, repo: repos[i].name});
+      if (tempContributorsStats.status === 202) {
+        recalc = true;
+      }
+      if (tempContributorsStats.data) {
+        repos[i].contributors = tempContributorsStats.data.length;
+      }
+      else {
+        repos[i].contributors = -1;
+      }
+      repoContributorsStats.push(tempContributorsStats);
+      tempContributorsStats
+    }
+
 
     //Show rate limits left
     const rates = await octokit.rateLimit.get({});
@@ -46,25 +65,17 @@ const getOrgStats = async (req, res, next) => {
     return next(errMsg);
   }
 
-  console.log(repoContributorsStats);
-
-  repos.sort(function(a, b){return a.forks_count - b.forks_count});
+  repos.sort(function(a, b){return b.forks_count - a.forks_count});
   const topTenForks = repos.slice(0, 10).map(repo => repo.name);
-  repos.sort(function(a, b){return a.stargazers_count - b.stargazers_count});
+  repos.sort(function(a, b){return b.stargazers_count - a.stargazers_count});
   const topTenStared = repos.slice(0, 10).map(repo => repo.name);
+  repos.sort(function(a, b){return b.contributors - a.contributors});
+  const topTenContributors = repos.slice(0, 10).map(repo => repo.name);
 
-//   Most popular repositories by:
-    // Stars
-    // Forks
-    // Contributors
     // Top internal contributors: these should be the users who are public members of the organization ranked by their contributions to repositories belonging to the organization.
     // Top external contributions: same as internal contributors, except for users who are not public members of the organization.
 
-  
-
-  //"forks_count"
-  //stargazers_count
-  res.send({topTenForks, topTenStared});
+  res.send({topTenForks, topTenStared, topTenContributors, recalc});
 }
 
 const authUser = async (req, res, next) => {

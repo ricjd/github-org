@@ -1,18 +1,18 @@
-function getCookie(cname) {
-  var name = cname + "=";
-  var decodedCookie = decodeURIComponent(document.cookie);
-  var ca = decodedCookie.split(';');
-  for(var i = 0; i <ca.length; i++) {
-    var c = ca[i];
-    while (c.charAt(0) == ' ') {
-      c = c.substring(1);
-    }
-    if (c.indexOf(name) == 0) {
-      return c.substring(name.length, c.length);
-    }
-  }
-  return;
-}
+// function getCookie(cname) {
+//   var name = cname + "=";
+//   var decodedCookie = decodeURIComponent(document.cookie);
+//   var ca = decodedCookie.split(';');
+//   for(var i = 0; i <ca.length; i++) {
+//     var c = ca[i];
+//     while (c.charAt(0) == ' ') {
+//       c = c.substring(1);
+//     }
+//     if (c.indexOf(name) == 0) {
+//       return c.substring(name.length, c.length);
+//     }
+//   }
+//   return;
+// }
 
 let xmlHttp = null;
 
@@ -33,16 +33,19 @@ const getData = () => {
 
 const showData = () => {
   if ( xmlHttp.readyState === 4 && xmlHttp.status === 200 ) {
-    document.getElementById('orgData').innerHTML = xmlHttp.responseText;
+    const data = JSON.parse(xmlHttp.responseText);
+    let html = '<h2>Top ten forks</h1>' +
+    data.topTenForks.join('<br>') +
+    '<h2>Top ten starred</h1>' +
+    data.topTenStared.join('<br>') +
+    '<h2>Top ten by contributors</h1>';
+    if (data.recalc) {
+      html = html + '<h3>Some repos stats haven\'t been calculated.  Please try again in a few minutes</h3>';
+    }
+    html = html + data.topTenContributors.join('<br>');
+    document.getElementById('orgData').innerHTML = html;
   }
   else if (xmlHttp.readyState === 4 && xmlHttp.status !== 200) {
     document.getElementById('orgData').innerHTML = 'ERROR:' + xmlHttp.responseText;
   }
-}
-
-if (getCookie('auth')) {
-  document.getElementById('app').style.display = 'inline';
-}
-else {
-  document.getElementById('signin').style.display = 'inline';
 }

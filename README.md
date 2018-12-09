@@ -6,4 +6,4 @@ npm install
 npm start
 ```
 
-Navigate to http://localhost:300
+Navigate to http://localhost:3000

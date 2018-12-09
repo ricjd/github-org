@@ -705,3 +705,246 @@
 {"level":"error","message":"Error getting data HttpError: You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.","timestamp":"2018-12-09T20:08:36.397Z"}
 {"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:11:26.719Z"}
 {"level":"error","message":"Error getting data HttpError: You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.","timestamp":"2018-12-09T20:11:28.138Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:19:06.812Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:19:06.818Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=edd5f5c298f93a6140e5: {}","timestamp":"2018-12-09T20:19:10.340Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:19:10.496Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:19:10.518Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:19:10.520Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:19:10.521Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:19:10.554Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:19:15.492Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":4538,\"reset\":1544387939},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544386816},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544390356}}","timestamp":"2018-12-09T20:19:16.878Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:20:11.394Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:20:11.399Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=9593b33d7d7ce305d959: {}","timestamp":"2018-12-09T20:20:14.295Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:20:14.463Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:20:14.482Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:20:14.486Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:20:14.487Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:20:14.517Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:20:18.930Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":4536,\"reset\":1544387939},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544386880},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544390420}}","timestamp":"2018-12-09T20:20:20.491Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:28:11.249Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:28:11.255Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=35da5863084fb987ffda: {}","timestamp":"2018-12-09T20:28:14.959Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:28:15.116Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:28:15.136Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:28:15.140Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:28:15.140Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:28:15.175Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:28:19.216Z"}
+{"level":"error","message":"Error getting data TypeError: RateLimit is not a function","timestamp":"2018-12-09T20:28:20.565Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:30:11.431Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:30:11.437Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=7cfb54222029a6f4f770: {}","timestamp":"2018-12-09T20:30:15.320Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:30:15.483Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:30:15.502Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:30:15.506Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:30:15.507Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:30:15.541Z"}
+{"level":"verbose","message":"[GET] /api/stats/Netflix: {}","timestamp":"2018-12-09T20:30:21.470Z"}
+{"level":"error","message":"Error getting data TypeError: RateLimit is not a function","timestamp":"2018-12-09T20:30:22.527Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:30:43.294Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:30:43.300Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=c8081ae3ea375cd70edf: {}","timestamp":"2018-12-09T20:30:45.897Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:30:46.060Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:30:46.079Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:30:46.082Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:30:46.083Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:30:46.115Z"}
+{"level":"verbose","message":"[GET] /api/stats/nexflix: {}","timestamp":"2018-12-09T20:30:51.260Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":4531,\"reset\":1544387939},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544387511},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544391051}}","timestamp":"2018-12-09T20:30:51.436Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:34:14.039Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:34:14.045Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=69f0c875b99abf5574ac: {}","timestamp":"2018-12-09T20:34:17.974Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:34:18.140Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:34:18.160Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:34:18.163Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:34:18.164Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:34:18.193Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:34:23.676Z"}
+{"level":"error","message":"Error getting data TypeError: Cannot read property 'push' of undefined","timestamp":"2018-12-09T20:34:25.239Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:34:57.745Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:34:57.752Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=ea2784996dca142189c1: {}","timestamp":"2018-12-09T20:35:02.609Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:35:02.780Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:35:02.798Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:35:02.802Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:35:02.803Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:35:02.836Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:35:07.403Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:37:07.410Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":4344,\"reset\":1544387939},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544387918},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544391458}}","timestamp":"2018-12-09T20:37:38.308Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:38:16.507Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:38:16.513Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=21a4eedba7310a7a170b: {}","timestamp":"2018-12-09T20:38:19.448Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:38:19.627Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:38:19.648Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:38:19.651Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:38:19.651Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:38:19.683Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:38:23.246Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:40:19.884Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:40:19.890Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=9798570e702c414696e9: {}","timestamp":"2018-12-09T20:40:31.702Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:40:31.852Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:40:31.892Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:40:31.895Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:40:31.897Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:40:32.103Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:40:36.199Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:44:32.204Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:44:32.211Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=6040aa94b16ea873de7c: {}","timestamp":"2018-12-09T20:44:36.056Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:44:36.208Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:44:36.228Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:44:36.232Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:44:36.232Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:44:36.267Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:44:40.451Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:45:27.171Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:45:27.177Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=99fbd801d4f76a706cfc: {}","timestamp":"2018-12-09T20:45:29.093Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:45:29.234Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:45:29.253Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:45:29.257Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:45:29.258Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:45:29.292Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:45:33.776Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:46:17.476Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:46:17.483Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=7a72a974433d0f2b7ac9: {}","timestamp":"2018-12-09T20:46:19.462Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:46:19.620Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:46:19.640Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:46:19.644Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:46:19.644Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:46:19.673Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:46:23.321Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:50:34.315Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:50:34.321Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=e133ebdbf6a6653379f7: {}","timestamp":"2018-12-09T20:50:36.257Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:50:36.425Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:50:36.445Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:50:36.449Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:50:36.449Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:50:36.482Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:50:41.524Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:51:02.259Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:51:02.265Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=2a72cabb30b06e745545: {}","timestamp":"2018-12-09T20:51:05.112Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:51:05.266Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:51:05.287Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:51:05.291Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:51:05.291Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:51:05.322Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:51:08.784Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:52:10.653Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:52:10.659Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=d7d6c24f83fa4a531587: {}","timestamp":"2018-12-09T20:52:14.937Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:52:15.095Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:52:15.115Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:52:15.120Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:52:15.120Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:52:15.154Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:58:20.320Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:58:20.327Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=9adc6fe56c4526d2cf34: {}","timestamp":"2018-12-09T20:58:23.094Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:58:23.247Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:58:23.266Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:58:23.271Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:58:23.271Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:58:23.306Z"}
+{"level":"verbose","message":"[GET] /api/stats/apple: {}","timestamp":"2018-12-09T20:58:26.041Z"}
+{"level":"error","message":"Error getting data ReferenceError: reporepoContributorsStats is not defined","timestamp":"2018-12-09T20:58:26.501Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:58:55.360Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:58:55.366Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=92b59ec3044a3f1a3f18: {}","timestamp":"2018-12-09T20:58:56.927Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:58:57.076Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:58:57.096Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:58:57.099Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:58:57.100Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:58:57.128Z"}
+{"level":"verbose","message":"[GET] /api/stats/apple: {}","timestamp":"2018-12-09T20:59:00.432Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":4782,\"reset\":1544391636},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544389215},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544392755}}","timestamp":"2018-12-09T20:59:15.663Z"}
+{"level":"verbose","message":"[GET] /api/stats/apple: {}","timestamp":"2018-12-09T20:59:47.214Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":4722,\"reset\":1544391636},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544389268},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544392808}}","timestamp":"2018-12-09T21:00:08.515Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T21:00:50.242Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T21:00:50.248Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=7533c257a966969dd065: {}","timestamp":"2018-12-09T21:00:53.282Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T21:00:53.452Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T21:00:53.471Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T21:00:53.474Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T21:00:53.474Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T21:00:53.512Z"}
+{"level":"verbose","message":"[GET] /api/stats/apple: {}","timestamp":"2018-12-09T21:00:57.085Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":4662,\"reset\":1544391636},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544389340},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544392880}}","timestamp":"2018-12-09T21:01:20.494Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T21:02:46.481Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T21:02:46.487Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=4f61a6a2bbcbe01d1ecd: {}","timestamp":"2018-12-09T21:02:51.965Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T21:02:52.113Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T21:02:52.153Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T21:02:52.157Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T21:02:52.157Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T21:02:52.363Z"}
+{"level":"verbose","message":"[GET] /api/stats/apple: {}","timestamp":"2018-12-09T21:02:55.403Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":4602,\"reset\":1544391636},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544389455},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544392995}}","timestamp":"2018-12-09T21:03:15.810Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T21:05:42.179Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T21:05:42.186Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=179d0876f3368a00a95d: {}","timestamp":"2018-12-09T21:05:44.129Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T21:05:44.293Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T21:05:44.313Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T21:05:44.316Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T21:05:44.317Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T21:05:44.353Z"}
+{"level":"verbose","message":"[GET] /api/stats/apple: {}","timestamp":"2018-12-09T21:05:47.666Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":4542,\"reset\":1544391636},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544389626},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544393166}}","timestamp":"2018-12-09T21:06:06.934Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T21:07:35.747Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T21:07:35.752Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=f3587a52605727037671: {}","timestamp":"2018-12-09T21:07:38.687Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T21:07:38.844Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T21:07:38.866Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T21:07:38.870Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T21:07:38.870Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T21:07:38.905Z"}
+{"level":"verbose","message":"[GET] /api/stats/apple: {}","timestamp":"2018-12-09T21:07:42.809Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":4482,\"reset\":1544391636},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544389743},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544393283}}","timestamp":"2018-12-09T21:08:03.269Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T21:12:36.580Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T21:12:36.587Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=35daf1327109e4ce97a7: {}","timestamp":"2018-12-09T21:12:42.866Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T21:12:43.016Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T21:12:43.033Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T21:12:43.038Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T21:12:43.039Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T21:12:43.071Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=14003cf9a4bd2505e243: {}","timestamp":"2018-12-09T21:12:46.082Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T21:12:46.189Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T21:12:46.205Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T21:12:46.206Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T21:12:46.206Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T21:12:46.242Z"}
+{"level":"verbose","message":"[GET] /api/stats/apple: {}","timestamp":"2018-12-09T21:12:57.015Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":4422,\"reset\":1544391636},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544390059},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544393599}}","timestamp":"2018-12-09T21:13:19.181Z"}
+{"level":"verbose","message":"[GET] /api/stats/facebook: {}","timestamp":"2018-12-09T21:13:33.107Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":4256,\"reset\":1544391636},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544390115},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544393655}}","timestamp":"2018-12-09T21:14:15.199Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T21:16:10.324Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T21:16:10.330Z"}
+{"level":"verbose","message":"[GET] /api/stats/github: {}","timestamp":"2018-12-09T21:16:23.407Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=b83791ab4bee6327943c: {}","timestamp":"2018-12-09T21:16:25.059Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T21:16:25.269Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T21:16:25.289Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T21:16:25.292Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T21:16:25.293Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T21:16:25.325Z"}
+{"level":"verbose","message":"[GET] /api/stats/github: {}","timestamp":"2018-12-09T21:16:29.203Z"}
+{"level":"error","message":"Error getting data TypeError: Cannot read property 'length' of undefined","timestamp":"2018-12-09T21:17:16.262Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T21:18:38.554Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T21:18:38.561Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=37dfe1ef74aa6a801ab6: {}","timestamp":"2018-12-09T21:18:43.507Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T21:18:43.660Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T21:18:43.681Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T21:18:43.682Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T21:18:43.682Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T21:18:43.714Z"}
+{"level":"verbose","message":"[GET] /api/stats/github: {}","timestamp":"2018-12-09T21:18:48.718Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":3756,\"reset\":1544391636},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544390472},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544394012}}","timestamp":"2018-12-09T21:20:12.476Z"}

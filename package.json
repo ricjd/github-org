@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "@octokit/rest": "^16.1.0",
+    "async-sema": "^2.1.4",
     "body-parser": "^1.18.2",
     "cookie-parser": "^1.4.3",
     "express": "^4.16.3",
