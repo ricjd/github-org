@@ -948,3 +948,18 @@
 {"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T21:18:43.714Z"}
 {"level":"verbose","message":"[GET] /api/stats/github: {}","timestamp":"2018-12-09T21:18:48.718Z"}
 {"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":3756,\"reset\":1544391636},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544390472},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544394012}}","timestamp":"2018-12-09T21:20:12.476Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T21:32:37.013Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T21:32:37.018Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T21:33:00.857Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T21:33:00.885Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T21:33:00.890Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T21:33:00.890Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T21:33:00.927Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=9b6585832be469d3e1ed: {}","timestamp":"2018-12-09T21:33:02.433Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T21:33:02.591Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T21:33:02.609Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T21:33:02.611Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T21:33:02.611Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T21:33:02.646Z"}
+{"level":"verbose","message":"[GET] /api/stats/apple: {}","timestamp":"2018-12-09T21:33:06.447Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":3696,\"reset\":1544391636},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544391265},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544394805}}","timestamp":"2018-12-09T21:33:25.989Z"}

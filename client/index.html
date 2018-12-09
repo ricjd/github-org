@@ -15,6 +15,11 @@
   <div class="container">
       <div class="form-group">
         <h1 class="text-center text-primary">GitHub Organization Dashboard</h1>
+        <div id="signin">
+          <a id="github-button" href="https://github.com/login/oauth/authorize?client_id=8432eb96ad51b57e0e28&redirect_uri=http://localhost:3000/api/auth" class="btn btn-block btn-social btn-github">
+            <i class="fa fa-github"></i> Sign in with GitHub
+          </a>
+        </div> 
         <div id="app">
           <div class="input-group-prepend">
             <input type="text" id="org" class="form-control" placeholder="Organization name">
@@ -22,11 +27,6 @@
           </div>
           <div id="orgData" class="text-center"></div>
       </div>
-      <div id="signin">
-        <a id="github-button" href="https://github.com/login/oauth/authorize?client_id=8432eb96ad51b57e0e28&redirect_uri=http://localhost:3000/api/auth" class="btn btn-block btn-social btn-github">
-          <i class="fa fa-github"></i> Sign in with GitHub
-        </a>
-      </div> 
     </div>
   </div>
 </body>
