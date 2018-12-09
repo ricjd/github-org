@@ -48,7 +48,6 @@ const getOrgStats = async (req, res, next) => {
       tempContributorsStats
     }
 
-
     //Show rate limits left
     const rates = await octokit.rateLimit.get({});
     log.info(`Rates after calls ${JSON.stringify(rates.data.resources)}`);
@@ -72,8 +71,8 @@ const getOrgStats = async (req, res, next) => {
   repos.sort(function(a, b){return b.contributors - a.contributors});
   const topTenContributors = repos.slice(0, 10).map(repo => repo.name);
 
-    // Top internal contributors: these should be the users who are public members of the organization ranked by their contributions to repositories belonging to the organization.
-    // Top external contributions: same as internal contributors, except for users who are not public members of the organization.
+  // Top internal contributors: these should be the users who are public members of the organization ranked by their contributions to repositories belonging to the organization.
+  // Top external contributions: same as internal contributors, except for users who are not public members of the organization.
 
   res.send({topTenForks, topTenStared, topTenContributors, recalc});
 }
