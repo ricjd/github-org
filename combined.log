@@ -1,0 +1,707 @@
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:12:57.557Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:12:57.566Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T16:13:16.653Z"}
+{"level":"error","message":"[undefined] undefined: undefined - ERROR: [object Object]","timestamp":"2018-12-09T16:13:16.654Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T16:13:47.092Z"}
+{"level":"error","message":"[undefined] undefined: undefined - ERROR: [object Object]","timestamp":"2018-12-09T16:13:47.093Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:13:51.849Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:13:51.856Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T16:13:53.172Z"}
+{"level":"error","message":"[undefined] undefined: undefined - ERROR: [object Object]","timestamp":"2018-12-09T16:13:53.173Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T16:14:45.271Z"}
+{"level":"error","message":"[undefined] undefined: undefined - ERROR: [object Object]","timestamp":"2018-12-09T16:14:45.271Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:14:48.049Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:14:48.056Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T16:14:49.581Z"}
+{"level":"error","message":"[undefined] undefined: undefined - ERROR: [object Object]","timestamp":"2018-12-09T16:14:49.581Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:15:53.710Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:15:53.717Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T16:15:55.344Z"}
+{"level":"error","message":"[undefined] undefined: undefined - ERROR: [object Object]","timestamp":"2018-12-09T16:15:55.344Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T16:16:40.849Z"}
+{"level":"error","message":"[undefined] undefined: undefined - ERROR: [object Object]","timestamp":"2018-12-09T16:16:40.849Z"}
+{"level":"verbose","message":"[GET] /ping: {}","timestamp":"2018-12-09T16:16:41.134Z"}
+{"level":"verbose","message":"[GET] /ping: {}","timestamp":"2018-12-09T16:16:41.556Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:18:05.963Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:18:05.971Z"}
+{"level":"verbose","message":"[GET] /pings: {}","timestamp":"2018-12-09T16:18:14.998Z"}
+{"level":"error","message":"[undefined] undefined: undefined - ERROR: [object Object]","timestamp":"2018-12-09T16:18:14.999Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:18:15.077Z"}
+{"level":"error","message":"[undefined] undefined: undefined - ERROR: [object Object]","timestamp":"2018-12-09T16:18:15.078Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:18:35.374Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:18:35.382Z"}
+{"level":"verbose","message":"[GET] /pings: {}","timestamp":"2018-12-09T16:18:36.687Z"}
+{"level":"verbose","message":"[GET] /ping: {}","timestamp":"2018-12-09T16:18:43.359Z"}
+{"level":"verbose","message":"[GET] /ping: {}","timestamp":"2018-12-09T16:18:43.392Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:19:30.400Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:19:30.408Z"}
+{"level":"verbose","message":"[GET] /ping: {}","timestamp":"2018-12-09T16:19:32.816Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:20:11.464Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:20:11.473Z"}
+{"level":"verbose","message":"[GET] /ping: {}","timestamp":"2018-12-09T16:20:12.528Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:23:32.238Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:23:32.247Z"}
+{"level":"verbose","message":"[GET] /api/stats/rupert: {}","timestamp":"2018-12-09T16:23:49.075Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:24:24.508Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:24:24.517Z"}
+{"level":"verbose","message":"[GET] /api/stats/rupert: {}","timestamp":"2018-12-09T16:24:27.794Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:24:47.809Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:24:47.819Z"}
+{"level":"verbose","message":"[GET] /api/stats/rupert: {}","timestamp":"2018-12-09T16:24:53.029Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:25:18.836Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:25:18.846Z"}
+{"level":"verbose","message":"[GET] /api/stats/rupert: {}","timestamp":"2018-12-09T16:25:20.618Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:25:41.466Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:25:41.475Z"}
+{"level":"verbose","message":"[GET] /api/stats/rupert: {}","timestamp":"2018-12-09T16:25:42.821Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:25:42.997Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:26:05.874Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:26:05.882Z"}
+{"level":"verbose","message":"[GET] /api/stats/rupert: {}","timestamp":"2018-12-09T16:26:07.556Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:26:07.563Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:26:37.653Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:26:37.662Z"}
+{"level":"verbose","message":"[GET] /api/stats/rupert: {}","timestamp":"2018-12-09T16:26:38.706Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:26:38.713Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T16:27:13.894Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:27:13.995Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:28:45.889Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:28:45.893Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T16:28:49.597Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:29:05.147Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:29:05.152Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:30:22.406Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:30:22.410Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:30:56.392Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:30:56.396Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:33:40.877Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:33:40.882Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T16:33:45.285Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:36:52.628Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:36:52.633Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T16:36:55.871Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:38:07.795Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:39:00.421Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:39:00.426Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:39:01.997Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:40:07.294Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:40:07.299Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:40:07.922Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:40:31.925Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:40:31.932Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:40:36.059Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:42:36.067Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:42:40.868Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:42:40.872Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:42:42.424Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:42:42.628Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:43:02.230Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:43:02.236Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:43:04.060Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:43:04.085Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:43:35.540Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:43:35.546Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:43:37.003Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:43:37.021Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:44:14.178Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:44:14.183Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:44:15.540Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:44:15.558Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:45:04.066Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:45:04.071Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:45:05.540Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:45:05.558Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:45:17.803Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:45:17.807Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:45:18.680Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:45:18.699Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:45:40.857Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:45:40.862Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:45:41.379Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:45:41.404Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:46:43.776Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:46:43.781Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:46:45.093Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:46:45.119Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:47:01.657Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:47:01.928Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:47:06.985Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:47:37.062Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:48:37.142Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:48:42.251Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:48:42.255Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:48:46.113Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:48:58.877Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:48:58.883Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:49:00.581Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:49:00.795Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T16:49:22.224Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:49:52.711Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:49:52.717Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T16:49:53.839Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:55:23.766Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:55:23.770Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:55:36.697Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:55:36.701Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T16:55:39.070Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:56:53.653Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:56:53.658Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixddddd: {}","timestamp":"2018-12-09T16:56:58.789Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T16:56:58.808Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T16:57:03.696Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:59:16.667Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:59:16.672Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T16:59:18.628Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:59:33.782Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:59:33.787Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T16:59:37.192Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T16:59:50.838Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T16:59:50.843Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T16:59:52.852Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:00:33.959Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:00:33.963Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:00:35.345Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:00:53.280Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:00:53.284Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:00:54.274Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:01:42.208Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:01:42.213Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:01:44.731Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:02:30.453Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:02:30.457Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:02:32.093Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixadasd: {}","timestamp":"2018-12-09T17:02:37.715Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:03:55.007Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:03:55.011Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixadasd: {}","timestamp":"2018-12-09T17:03:56.233Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:04:19.773Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:04:19.778Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixadasd: {}","timestamp":"2018-12-09T17:04:20.868Z"}
+{"error":{"name":"HttpError","status":404,"headers":{"access-control-allow-origin":"*","access-control-expose-headers":"ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type","connection":"close","content-encoding":"gzip","content-security-policy":"default-src 'none'","content-type":"application/json; charset=utf-8","date":"Sun, 09 Dec 2018 17:04:20 GMT","referrer-policy":"origin-when-cross-origin, strict-origin-when-cross-origin","server":"GitHub.com","status":"404 Not Found","strict-transport-security":"max-age=31536000; includeSubdomains; preload","transfer-encoding":"chunked","x-content-type-options":"nosniff","x-frame-options":"deny","x-github-media-type":"github.v3; format=json","x-github-request-id":"E50F:7D42:33B6E5:82BAB3:5C0D4B14","x-ratelimit-limit":"60","x-ratelimit-remaining":"16","x-ratelimit-reset":"1544376825","x-xss-protection":"1; mode=block"},"request":{"method":"GET","url":"https://api.github.com/orgs/netflixadasd/repos?page=1","headers":{"accept":"application/vnd.github.v3+json","user-agent":"octokit.js/16.1.0 Node.js/10.14.1 (macOS Mojave; x64)"},"request":{"validate":{"org":{"required":true,"type":"string"},"page":{"type":"integer"},"per_page":{"type":"integer"},"type":{"enum":["all","public","private","forks","sources","member"],"type":"string"}}}},"documentation_url":"https://developer.github.com/v3/repos/#list-organization-repositories"},"level":"error","message":"Error getting listForOrg","timestamp":"2018-12-09T17:04:20.981Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:13:22.290Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:13:22.294Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:13:26.504Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:13:44.227Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:14:06.774Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:14:06.778Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:14:10.573Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:14:14.369Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:14:53.976Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:14:53.980Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:14:57.525Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:15:14.761Z"}
+{"error":{"name":"HttpError","status":403,"headers":{"access-control-allow-origin":"*","access-control-expose-headers":"ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type","connection":"close","content-encoding":"gzip","content-security-policy":"default-src 'none'","content-type":"application/json; charset=utf-8","date":"Sun, 09 Dec 2018 17:15:14 GMT","referrer-policy":"origin-when-cross-origin, strict-origin-when-cross-origin","server":"GitHub.com","status":"403 Forbidden","strict-transport-security":"max-age=31536000; includeSubdomains; preload","transfer-encoding":"chunked","x-content-type-options":"nosniff","x-frame-options":"deny","x-github-media-type":"github.v3; format=json","x-github-request-id":"F0B1:7D43:6C523E:E8C964:5C0D4DA2","x-ratelimit-limit":"60","x-ratelimit-remaining":"0","x-ratelimit-reset":"1544376825","x-xss-protection":"1; mode=block"},"request":{"method":"GET","url":"https://api.github.com/orgs/netflix/repos?per_page=100&page=1","headers":{"accept":"application/vnd.github.v3+json","user-agent":"octokit.js/16.1.0 Node.js/10.14.1 (macOS Mojave; x64)"},"request":{"validate":{"org":{"required":true,"type":"string"},"page":{"type":"integer"},"per_page":{"type":"integer"},"type":{"enum":["all","public","private","forks","sources","member"],"type":"string"}}}},"documentation_url":"https://developer.github.com/v3/#rate-limiting"},"level":"error","message":"Error getting listForOrg","timestamp":"2018-12-09T17:15:14.877Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:16:04.820Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:16:04.825Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:16:36.418Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:16:36.422Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:16:48.129Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:16:48.133Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:16:49.502Z"}
+{"error":{"name":"HttpError","status":403,"headers":{"access-control-allow-origin":"*","access-control-expose-headers":"ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type","connection":"close","content-encoding":"gzip","content-security-policy":"default-src 'none'","content-type":"application/json; charset=utf-8","date":"Sun, 09 Dec 2018 17:16:49 GMT","referrer-policy":"origin-when-cross-origin, strict-origin-when-cross-origin","server":"GitHub.com","status":"403 Forbidden","strict-transport-security":"max-age=31536000; includeSubdomains; preload","transfer-encoding":"chunked","x-content-type-options":"nosniff","x-frame-options":"deny","x-github-media-type":"github.v3; format=json","x-github-request-id":"F25A:7D42:33EE1A:835170:5C0D4E01","x-ratelimit-limit":"60","x-ratelimit-remaining":"0","x-ratelimit-reset":"1544376825","x-xss-protection":"1; mode=block"},"request":{"method":"GET","url":"https://api.github.com/orgs/netflix/repos?per_page=100&page=1","headers":{"accept":"application/vnd.github.v3+json","user-agent":"octokit.js/16.1.0 Node.js/10.14.1 (macOS Mojave; x64)"},"request":{"validate":{"org":{"required":true,"type":"string"},"page":{"type":"integer"},"per_page":{"type":"integer"},"type":{"enum":["all","public","private","forks","sources","member"],"type":"string"}}}},"documentation_url":"https://developer.github.com/v3/#rate-limiting"},"level":"error","message":"Error getting listForOrg","timestamp":"2018-12-09T17:16:49.688Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:17:00.691Z"}
+{"error":{"name":"HttpError","status":403,"headers":{"access-control-allow-origin":"*","access-control-expose-headers":"ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type","connection":"close","content-encoding":"gzip","content-security-policy":"default-src 'none'","content-type":"application/json; charset=utf-8","date":"Sun, 09 Dec 2018 17:17:00 GMT","referrer-policy":"origin-when-cross-origin, strict-origin-when-cross-origin","server":"GitHub.com","status":"403 Forbidden","strict-transport-security":"max-age=31536000; includeSubdomains; preload","transfer-encoding":"chunked","x-content-type-options":"nosniff","x-frame-options":"deny","x-github-media-type":"github.v3; format=json","x-github-request-id":"F28F:7D42:33EECC:83537F:5C0D4E0C","x-ratelimit-limit":"60","x-ratelimit-remaining":"0","x-ratelimit-reset":"1544376825","x-xss-protection":"1; mode=block"},"request":{"method":"GET","url":"https://api.github.com/orgs/netflix/repos?per_page=100&page=1","headers":{"accept":"application/vnd.github.v3+json","user-agent":"octokit.js/16.1.0 Node.js/10.14.1 (macOS Mojave; x64)"},"request":{"validate":{"org":{"required":true,"type":"string"},"page":{"type":"integer"},"per_page":{"type":"integer"},"type":{"enum":["all","public","private","forks","sources","member"],"type":"string"}}}},"documentation_url":"https://developer.github.com/v3/#rate-limiting"},"level":"error","message":"Error getting listForOrg","timestamp":"2018-12-09T17:17:00.963Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:23:07.066Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:23:07.072Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:23:10.212Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:25:10.219Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:27:10.415Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:27:28.597Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:27:28.602Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:27:30.809Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T17:28:34.990Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T17:28:34.994Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:28:37.454Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:30:37.461Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T17:36:32.888Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:01:51.768Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:01:51.772Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=f7bacbefd173cf98b71c: {}","timestamp":"2018-12-09T18:01:54.850Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T18:01:55.060Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=bbbb4ac810d0939f0ea4: {}","timestamp":"2018-12-09T18:02:27.642Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T18:02:27.899Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=e1081a702048afa3bfc5: {}","timestamp":"2018-12-09T18:02:27.939Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T18:02:28.106Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:04:20.605Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:04:20.610Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=e1081a702048afa3bfc5: {}","timestamp":"2018-12-09T18:04:26.119Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:05:24.424Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:05:24.430Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=e1081a702048afa3bfc5: {}","timestamp":"2018-12-09T18:05:30.622Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:06:51.720Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:06:51.725Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T18:06:58.818Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:12:43.381Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:12:43.385Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=1a06b5d2f9d1eb5ef36d: {}","timestamp":"2018-12-09T18:13:22.607Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T18:13:30.842Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:18:28.828Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:18:28.834Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=ffb79ca78758e9831956: {}","timestamp":"2018-12-09T18:18:34.831Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:19:17.644Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:19:17.649Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=ffb79ca78758e9831956: {}","timestamp":"2018-12-09T18:19:22.537Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=c949430a3cc8225590a7: {}","timestamp":"2018-12-09T18:19:37.373Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T18:19:47.146Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:21:56.448Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:21:56.453Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=1d2c4cd65ec3b380fe22: {}","timestamp":"2018-12-09T18:22:04.702Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:23:17.012Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:23:17.017Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=1d2c4cd65ec3b380fe22: {}","timestamp":"2018-12-09T18:23:28.280Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:24:27.136Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:24:27.141Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=1d2c4cd65ec3b380fe22: {}","timestamp":"2018-12-09T18:24:27.835Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:24:40.509Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:24:40.519Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=1d2c4cd65ec3b380fe22: {}","timestamp":"2018-12-09T18:24:40.945Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:24:51.687Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:24:51.694Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=1d2c4cd65ec3b380fe22: {}","timestamp":"2018-12-09T18:24:52.670Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=390a96b43b0003c00b53: {}","timestamp":"2018-12-09T18:25:07.351Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T18:25:17.765Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:25:41.488Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:25:41.493Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=a9df02a56f136d53f5e9: {}","timestamp":"2018-12-09T18:25:49.892Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T18:26:14.324Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:26:41.173Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:26:41.178Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=fc0a7265c0d72dd00ae1: {}","timestamp":"2018-12-09T18:26:48.750Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T18:26:56.581Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:27:10.566Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:27:10.571Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=e619de2bcfc03a953736: {}","timestamp":"2018-12-09T18:27:18.854Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T18:27:23.735Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:28:19.141Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:28:19.146Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T18:28:20.573Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:28:36.715Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:28:36.721Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T18:28:38.156Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:52:48.807Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:52:48.813Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:52:56.272Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:52:56.279Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T18:53:01.602Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:53:19.939Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:53:19.945Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T18:53:20.914Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:55:06.143Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:55:06.150Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T18:55:10.284Z"}
+{"level":"verbose","message":"[GET] /api/ping: {}","timestamp":"2018-12-09T18:55:15.054Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T18:58:11.161Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T18:58:11.167Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T18:58:20.550Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T18:58:23.905Z"}
+{"level":"verbose","message":"[GET] /dsdasda: {}","timestamp":"2018-12-09T18:58:27.515Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T18:58:30.630Z"}
+{"level":"verbose","message":"[GET] /api/ping: {}","timestamp":"2018-12-09T18:58:36.800Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:00:01.888Z"}
+{"level":"verbose","message":"[GET] /?todo=: {}","timestamp":"2018-12-09T19:00:03.737Z"}
+{"level":"verbose","message":"[GET] /?todo=: {}","timestamp":"2018-12-09T19:00:05.109Z"}
+{"level":"verbose","message":"[GET] /?todo=: {}","timestamp":"2018-12-09T19:00:07.615Z"}
+{"level":"verbose","message":"[GET] /?todo=: {}","timestamp":"2018-12-09T19:02:27.648Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:02:27.658Z"}
+{"level":"verbose","message":"[GET] /?todo=: {}","timestamp":"2018-12-09T19:02:30.732Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:02:30.740Z"}
+{"level":"verbose","message":"[GET] /?: {}","timestamp":"2018-12-09T19:02:33.410Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:02:33.419Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:03:09.391Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:03:09.401Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:04:40.094Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:04:40.104Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:04:49.558Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:04:49.570Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:04:49.642Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:05:30.291Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:05:30.301Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:05:30.327Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:05:35.555Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:05:35.564Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:05:35.636Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:07:22.741Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:07:22.750Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:07:22.773Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:07:30.028Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:07:30.037Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:07:30.083Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:07:40.383Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:07:40.393Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:07:40.421Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:08:34.127Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:08:34.136Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:08:34.161Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:08:44.207Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:08:44.217Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:08:44.280Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:08:45.589Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:08:45.598Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:08:45.633Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:08:56.313Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:08:56.323Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:08:56.355Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=bd49143d2493a2381398: {}","timestamp":"2018-12-09T19:09:13.004Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:09:14.797Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:09:37.264Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=2152f7ce923ed096eb2a: {}","timestamp":"2018-12-09T19:09:41.271Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:09:41.621Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T19:09:50.650Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T19:09:50.656Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=8684808a57b75b9d3159: {}","timestamp":"2018-12-09T19:09:55.245Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:09:55.395Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:09:55.406Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:09:55.483Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:09:55.510Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:09:59.097Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:09:59.107Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:09:59.130Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=297ac4eb70815905f0d8: {}","timestamp":"2018-12-09T19:10:04.477Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:10:04.593Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:10:04.602Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:10:04.894Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:10:04.919Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T19:12:20.555Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T19:12:20.561Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=43a8079079c26674d969: {}","timestamp":"2018-12-09T19:12:26.138Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:12:26.300Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:12:26.314Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:12:26.319Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:12:26.346Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:17:07.060Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:17:07.070Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:17:07.072Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:17:07.073Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:17:07.103Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:17:41.499Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:17:41.509Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:17:41.510Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:17:41.510Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:17:41.537Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:18:34.693Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:18:34.703Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:18:34.703Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:18:34.704Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:18:34.745Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:19:08.883Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:19:08.894Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:19:08.895Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:19:08.896Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:19:09.243Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:19:15.746Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:19:15.757Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:19:15.758Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:19:15.759Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:19:15.839Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:19:57.491Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:19:57.502Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:19:57.503Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:19:57.505Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:19:57.555Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:22:11.709Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:22:11.720Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:22:11.721Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:22:11.722Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:22:11.831Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:23:58.971Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:23:58.982Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:23:58.982Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:23:58.983Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:23:59.048Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:25:13.202Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:25:13.214Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:25:13.214Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:25:13.215Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:25:13.270Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:26:52.436Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:26:52.448Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:26:52.450Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:26:52.451Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:26:52.504Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:27:20.381Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:27:20.392Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:27:20.393Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:27:20.394Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:27:20.462Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:27:30.141Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:27:30.153Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:27:30.154Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:27:30.154Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:27:30.199Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:28:44.597Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:28:44.609Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:28:44.609Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:28:44.609Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:28:44.661Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:28:49.607Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:28:49.619Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:28:49.621Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:28:49.621Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:28:49.663Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T19:28:56.295Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T19:28:56.301Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:28:57.200Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:28:57.217Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:28:57.220Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:28:57.220Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:28:57.251Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:29:16.589Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:29:16.605Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:29:16.607Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:29:16.607Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:29:16.652Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:29:21.868Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:29:21.910Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:29:21.912Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:29:21.914Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:29:22.074Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:29:30.695Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:29:30.744Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:29:30.746Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:29:30.748Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:29:30.930Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:29:33.198Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:29:33.201Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=7d64348dbe7740c9e324: {}","timestamp":"2018-12-09T19:29:38.784Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:29:38.946Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:29:38.960Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:29:38.961Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:29:38.962Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:29:38.997Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:30:04.471Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:30:04.491Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:30:04.492Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:30:04.494Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:30:04.558Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:37:33.981Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:37:33.993Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:37:33.994Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:37:33.995Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:37:34.089Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:38:05.332Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:38:05.343Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:38:05.344Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:38:05.346Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:38:05.450Z"}
+{"level":"verbose","message":"[GET] /api/statsnetflix: {}","timestamp":"2018-12-09T19:38:10.368Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:38:10.375Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:38:10.376Z"}
+{"level":"verbose","message":"[GET] /api/statsnetflix: {}","timestamp":"2018-12-09T19:38:14.416Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:38:14.424Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:38:14.424Z"}
+{"level":"verbose","message":"[GET] /api/statsnetflix: {}","timestamp":"2018-12-09T19:38:15.126Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:38:15.135Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:38:15.135Z"}
+{"level":"verbose","message":"[GET] /api/statsnetflix: {}","timestamp":"2018-12-09T19:38:16.082Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:38:16.088Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:38:16.089Z"}
+{"level":"verbose","message":"[GET] /api/statsnetflix: {}","timestamp":"2018-12-09T19:38:16.757Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:38:16.765Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:38:16.766Z"}
+{"level":"verbose","message":"[GET] /api/statsnetflix: {}","timestamp":"2018-12-09T19:38:28.851Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:38:28.856Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:38:28.857Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:38:47.373Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:38:47.386Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:38:47.387Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:38:47.388Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:38:47.459Z"}
+{"level":"verbose","message":"[GET] /api/stats/: {}","timestamp":"2018-12-09T19:38:48.909Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:38:48.917Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:38:48.918Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T19:38:58.979Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:39:30.296Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:39:30.309Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:39:30.310Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:39:30.312Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:39:30.377Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T19:39:34.653Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflixd: {}","timestamp":"2018-12-09T19:39:39.087Z"}
+{"error":{"name":"HttpError","status":404,"headers":{"access-control-allow-origin":"*","access-control-expose-headers":"ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type","connection":"close","content-encoding":"gzip","content-security-policy":"default-src 'none'","content-type":"application/json; charset=utf-8","date":"Sun, 09 Dec 2018 19:39:39 GMT","referrer-policy":"origin-when-cross-origin, strict-origin-when-cross-origin","server":"GitHub.com","status":"404 Not Found","strict-transport-security":"max-age=31536000; includeSubdomains; preload","transfer-encoding":"chunked","x-accepted-oauth-scopes":"repo","x-content-type-options":"nosniff","x-frame-options":"deny","x-github-media-type":"github.v3; format=json","x-github-request-id":"D2EB:7D43:71BD81:F4F326:5C0D6F7B","x-oauth-client-id":"8432eb96ad51b57e0e28","x-oauth-scopes":"","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4995","x-ratelimit-reset":"1544387939","x-xss-protection":"1; mode=block"},"request":{"method":"GET","url":"https://api.github.com/orgs/netflixd/repos?access_token=62eef91697d44d8402be71f174480ef3d32334c1&per_page=100&page=1","headers":{"accept":"application/vnd.github.v3+json","user-agent":"octokit.js/16.1.0 Node.js/10.14.1 (macOS Mojave; x64)"},"request":{"validate":{"org":{"required":true,"type":"string"},"page":{"type":"integer"},"per_page":{"type":"integer"},"type":{"enum":["all","public","private","forks","sources","member"],"type":"string"}}}},"documentation_url":"https://developer.github.com/v3/repos/#list-organization-repositories"},"level":"error","message":"Error getting listForOrg","timestamp":"2018-12-09T19:39:39.208Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T19:39:44.924Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:40:09.470Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:40:09.485Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:40:09.487Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:40:09.488Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:40:09.540Z"}
+{"level":"verbose","message":"[GET] /api/stats/: {}","timestamp":"2018-12-09T19:40:12.331Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:40:12.338Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:40:12.338Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T19:40:17.753Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:41:32.950Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:41:32.966Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:41:32.967Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:41:32.971Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:41:33.026Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T19:41:38.280Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T19:48:42.441Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T19:48:42.448Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:48:46.748Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:48:46.765Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:48:46.768Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:48:46.768Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:48:46.796Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T19:48:50.976Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:49:09.746Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:49:09.791Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:49:09.792Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:49:09.795Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:49:09.904Z"}
+{"level":"verbose","message":"[GET] /api/stats/dsaasd: {}","timestamp":"2018-12-09T19:49:12.910Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T19:50:27.028Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T19:50:27.034Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:50:31.724Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:50:31.740Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:50:31.742Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:50:31.742Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:50:31.756Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:50:38.770Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:50:38.984Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:50:38.985Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:50:38.986Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:50:39.173Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=94481f3dfc1b79b67b4f: {}","timestamp":"2018-12-09T19:50:42.365Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:50:42.505Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:50:42.518Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:50:42.519Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:50:42.519Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:50:42.538Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:50:47.844Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:50:48.137Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:50:48.138Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:50:48.138Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:50:48.266Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T19:50:56.445Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T19:51:59.681Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T19:51:59.686Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T19:52:03.540Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:52:14.836Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:52:14.896Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:52:14.899Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:52:14.899Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:52:15.088Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=5837757a9a90c3f25c4b: {}","timestamp":"2018-12-09T19:52:16.000Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:52:16.155Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:52:16.170Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:52:16.171Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:52:16.171Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:52:16.189Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T19:52:21.867Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T19:55:53.683Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T19:55:53.689Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:56:01.817Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:56:01.884Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:56:01.889Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:56:01.890Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:56:02.037Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=b45db06d57d09a43e6ad: {}","timestamp":"2018-12-09T19:56:03.373Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:56:03.742Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:56:03.755Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:56:03.756Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:56:03.757Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:56:03.775Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T19:56:06.893Z"}
+{"error":{},"level":"error","message":"Error getting data","timestamp":"2018-12-09T19:56:07.906Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T19:57:27.565Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T19:57:27.571Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T19:57:32.010Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:57:40.376Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:57:40.644Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:57:40.646Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:57:40.646Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:57:40.836Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=ea0b1bd5295c9fe966e0: {}","timestamp":"2018-12-09T19:57:41.911Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:57:42.099Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:57:42.112Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:57:42.113Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:57:42.114Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:57:42.132Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T19:57:45.996Z"}
+{"level":"error","message":"Error getting data ReferenceError: logger is not defined","timestamp":"2018-12-09T19:57:47.596Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T19:58:04.020Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T19:58:04.026Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:58:14.227Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:58:15.241Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:58:15.246Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:58:15.246Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:58:15.430Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=95a771b35bb31c8788c3: {}","timestamp":"2018-12-09T19:58:16.420Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T19:58:16.562Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T19:58:16.576Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T19:58:16.578Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T19:58:16.578Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T19:58:16.597Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T19:58:20.728Z"}
+{"level":"info","message":"Rates after calls [object Object]","timestamp":"2018-12-09T19:58:21.950Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:03:27.294Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:03:27.299Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:03:33.421Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:03:34.297Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:03:34.300Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:03:34.301Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:03:34.479Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=f4afcbdde886465673d8: {}","timestamp":"2018-12-09T20:03:35.474Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:03:35.621Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:03:35.635Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:03:35.636Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:03:35.636Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:03:35.656Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:03:39.772Z"}
+{"level":"error","message":"Error getting data HttpError: Empty value for parameter 'repo': undefined","timestamp":"2018-12-09T20:03:41.694Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:04:15.432Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:04:15.437Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:04:18.300Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:04:23.678Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:04:24.937Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:04:24.937Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:04:24.939Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:04:25.100Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=b62b4c83ea4f90f492b8: {}","timestamp":"2018-12-09T20:04:26.380Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:04:26.537Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:04:26.551Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:04:26.553Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:04:26.553Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:04:26.571Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:04:30.205Z"}
+{"level":"error","message":"Error getting data HttpError: Empty value for parameter 'repo': undefined","timestamp":"2018-12-09T20:04:31.585Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:04:35.957Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:04:35.959Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:04:43.514Z"}
+{"level":"error","message":"Error getting data HttpError: Empty value for parameter 'repo': undefined","timestamp":"2018-12-09T20:04:44.871Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:05:07.963Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:05:07.978Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:05:07.979Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:05:07.983Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:05:08.100Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=d246c57def29c82d81fa: {}","timestamp":"2018-12-09T20:05:11.442Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:05:11.546Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:05:11.561Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:05:11.563Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:05:11.563Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:05:11.597Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:05:15.237Z"}
+{"level":"error","message":"Error getting data HttpError: Empty value for parameter 'repo': undefined","timestamp":"2018-12-09T20:05:16.673Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:05:39.187Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:05:39.193Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=1d822a7d131b8e415791: {}","timestamp":"2018-12-09T20:05:44.836Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:05:44.985Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:05:45.027Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:05:45.030Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:05:45.030Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:05:45.240Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:05:56.010Z"}
+{"level":"error","message":"Error getting data HttpError: Empty value for parameter 'repo': undefined","timestamp":"2018-12-09T20:05:57.151Z"}
+{"level":"info","message":"Starting in undefined mode","timestamp":"2018-12-09T20:06:15.184Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-12-09T20:06:15.191Z"}
+{"level":"verbose","message":"[GET] /api/auth?code=67fd456aa4f74ebd285e: {}","timestamp":"2018-12-09T20:06:19.031Z"}
+{"level":"verbose","message":"[GET] /: {}","timestamp":"2018-12-09T20:06:19.194Z"}
+{"level":"verbose","message":"[GET] /bootstrap-social.css: {}","timestamp":"2018-12-09T20:06:19.213Z"}
+{"level":"verbose","message":"[GET] /index.css: {}","timestamp":"2018-12-09T20:06:19.216Z"}
+{"level":"verbose","message":"[GET] /index.js: {}","timestamp":"2018-12-09T20:06:19.216Z"}
+{"level":"verbose","message":"[GET] /favicon.ico: {}","timestamp":"2018-12-09T20:06:19.251Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:06:23.246Z"}
+{"level":"info","message":"Rates after calls {\"core\":{\"limit\":5000,\"remaining\":4817,\"reset\":1544387939},\"search\":{\"limit\":30,\"remaining\":30,\"reset\":1544386044},\"graphql\":{\"limit\":5000,\"remaining\":5000,\"reset\":1544389584}}","timestamp":"2018-12-09T20:06:24.974Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:08:34.941Z"}
+{"level":"error","message":"Error getting data HttpError: You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.","timestamp":"2018-12-09T20:08:36.397Z"}
+{"level":"verbose","message":"[GET] /api/stats/netflix: {}","timestamp":"2018-12-09T20:11:26.719Z"}
+{"level":"error","message":"Error getting data HttpError: You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.","timestamp":"2018-12-09T20:11:28.138Z"}
