@@ -1,8 +1,9 @@
-# node-bootstrap
-Rick Knowler standard node server
+# github-org
 
-## To run:
-  - use `npm start`
+To run:
+```
+npm install
+npm start
+```
 
-## Tests:
-  None yet.
+Navigate to http://localhost:300
