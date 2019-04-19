@@ -8,8 +8,8 @@ const querystring = require('querystring');
 
 const log = require('./logger');
 
-const appId = '8432eb96ad51b57e0e28';
-const privateKey = '23fb45f47886c32934b438d9f2627576e254c457';
+const appId = '';
+const privateKey = '';
 
 const getOrgStats = async (req, res, next) => {
   let repos;
